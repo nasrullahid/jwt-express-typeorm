@@ -47,8 +47,8 @@ allow some annotations features used with TypeORM
 **class-validator** 
 A validation package that works really well with TypeORM
 
-**sqlite3** 
-We are going to use sqlite as dev database
+**postgres** 
+We are going to use postgres as dev database
 
 **ts-node-dev**
 Automatically restarts the server when we change any file
