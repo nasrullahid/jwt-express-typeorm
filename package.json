@@ -23,7 +23,7 @@
     "pg": "^7.18.2",
     "reflect-metadata": "^0.1.10",
     "ts-node-dev": "^1.0.0-pre.44",
-    "typeorm": "^0.2.24"
+    "typeorm": "^0.2.25"
   },
   "scripts": {
     "tsc": "tsc",
